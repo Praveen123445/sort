@@ -14,7 +14,7 @@
     "@kinde-oss/kinde-auth-nextjs": "^2.3.8",
     "@kinde-oss/kinde-auth-react": "^4.0.3",
     "@mantine/hooks": "^7.12.2",
-    "@pinecone-database/pinecone": "^3.0.3",
+    "@pinecone-database/pinecone": "^1.0.1",
     "@prisma/client": "^5.19.1",
     "@radix-ui/react-avatar": "^1.1.0",
     "@radix-ui/react-dialog": "^1.1.1",
